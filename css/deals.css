@@ -1,0 +1,102 @@
+.banner{
+	height: 200px;
+	width: 200px;
+}
+.clearance{
+	position: relative;
+	z-index: 0;
+	display: block;
+	font-family: 'ambleregular';
+	box-sizing: auto;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	text-transform: uppercase;
+	font-size: 43px;
+	font-weight: bold;
+	background: url(..img/black.jpg);
+	/* background-color: #00008B; */
+	background-color: : #820813;
+	margin-bottom: 34px;
+	background-position: cover;
+
+}
+.column{
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+.row::after{
+content: "";
+clear: both;
+display: table;
+}
+.salebox{
+	-webkit-box-pack: center;
+	justify-content: center;
+	text-align: center;
+	box-sizing: border-box;
+}
+.bottom{
+	margin-bottom: 5px;
+}
+li{
+	list-style: outside none none;
+}
+.responsive{
+	max-width: 100%;
+	height: auto;
+
+}
+figure {
+   margin: 1em;
+   padding: 1em;
+   background-color: white;
+   border-style: solid black;
+   width: 250px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;   
+   transition : all 0.4s ease-out 0.25s;
+}
+figcaption {
+   margin-top: 0.2em;
+   font-weight: bold;
+   font-size: 1em;
+}
+figure:hover {
+   background-color: #263238;
+   color: white;
+   box-shadow: 10px 10px 32px -4px rgba(0,0,0,0.75);
+   transform: scale(1.35);
+   transition : all 1s ease-in 0.25s;
+}
+.text {
+  position: relative;
+  display: inline-block;
+}
+
+.text: hover .tool{
+	visibility: visible;
+}
+h2{
+	text-align: center;
+	position: relative;
+	font-size: 8px;
+}
+.sale{
+	color: red;
+}
+.oldprice{
+	text-decoration: line-through;
+	color: black;
+	font-weight: bold;
+	font-size: 90%;
+}
+span{
+	display: inline-block;
+}
+
+

@@ -1,0 +1,19 @@
+p{
+  font-family: "ambleregular";
+  font-weight: bold;
+  text-decoration-color: black;
+  font-size: 18px;
+}
+
+h5{
+	font-weight: bold;
+	font-family:'ambleregular';
+}
+#myDiv{
+	font-family: "ambleregular";
+	
+}
+.source{
+	border: 1pt solid black;
+	text-align: center;
+}

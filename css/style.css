@@ -1,0 +1,128 @@
+.white{
+	color: white;
+}
+
+#content{
+	position:relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    margin-top:2%;
+    margin-bottom:2%;
+    background-color:rgba(0,0,0,0.7);
+    max-width:660px;
+}
+#bannerContent{
+    position:relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    margin-top:12%;
+    margin-bottom:12%;
+    background-color:rgba(0,0,0,0.7);
+    max-width:660px;
+}
+#bannerImage{
+    margin-top: 10px;
+    padding-top:75px;
+    padding-bottom:50px;
+    margin-bottom: 20px;
+    text-align:center;
+    color:#f8f8f8;
+    background:url(../img/sale1.jpg);
+    background-size:cover;
+}
+.navbar{
+	background-color: #1C1818;
+}
+.clearance{
+	position: relative;
+	z-index: 0;
+	display: block;
+	font-family: 'ambleregular';
+	box-sizing: auto;
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	text-transform: uppercase;
+	font-size: 43px;
+	font-weight: bold;
+	margin-top: 30px;
+	
+	margin-bottom: 34px;
+
+}
+.salebox1{
+	padding-top:75px;
+    padding-bottom:50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align:center;
+    color:#f8f8f8;
+	
+	background:url(../img/home.jpeg);
+	background-size: cover;
+    
+}
+.salebox2{
+	padding-top:75px;
+    padding-bottom:50px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align:center;
+    color:#f8f8f8;
+	
+	background:url(../img/kitchen.jpeg);
+    background-size: cover;
+	
+}
+.salebox3{
+	padding-top:75px;
+    padding-bottom:50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align:center;
+    color:#f8f8f8;
+	
+	background:url(../img/fitness.jpeg);
+	background-size: cover;
+    
+}
+.salebox4{
+	padding-top:75px;
+    padding-bottom:50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align:center;
+    color:#f8f8f8;
+	
+	background:url(../img/hair.jpg);
+	background-size: cover;
+    
+}
+.bottom{
+	margin-bottom: 5px;
+}
+.Headings h3{
+    
+    font-family:'ambleregular','Open Sans', Arial, sans-serif;
+    font-size:22px;
+    color:#383838;
+    text-transform:uppercase;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.clear{
+    clear: both;
+}
+div .panel-heading{
+    border-bottom: grey;
+    font-size: 20px;
+  
+}
+div .panel{
+ 
+    border-color: black;
+
+}
+
